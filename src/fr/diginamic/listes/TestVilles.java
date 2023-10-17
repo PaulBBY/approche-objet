@@ -2,6 +2,8 @@ package fr.diginamic.listes;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
+import java.util.Collections;
 import java.util.Objects;
 
 
@@ -57,6 +59,10 @@ public class TestVilles {
 		System.out.println(v.getNom()+" : "+v.getHabitants());
 	}
 	
+	
 	}
+	
+	
+	
 
 }
